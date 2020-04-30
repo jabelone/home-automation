@@ -13,7 +13,7 @@ You can use the links below to navigate directly to a section.
   <h4>
     [Philosophy]( https://github.com/jabelone/home-automation#my-smart-home-philosophy )
     <span> | </span> 
-    [Diagram]( diagram )
+    [Diagram]( https://github.com/jabelone/home-automation#diagram )
   </h4>
 </div>
 
