@@ -9,13 +9,7 @@ Sometimes context is everything, so here it is. My home is a one bedroom apartme
 ## Navigation
 You can use the links below to navigate directly to a section.
 
-<div align="center"><a name="menu"></a>
-  <h4>
-    [Philosophy]( https://github.com/jabelone/home-automation#my-smart-home-philosophy )
-    <span> | </span> 
-    [Diagram]( https://github.com/jabelone/home-automation#diagram )
-  </h4>
-</div>
+[Philosophy]( https://github.com/jabelone/home-automation#my-smart-home-philosophy ) |  [Diagram]( https://github.com/jabelone/home-automation#diagram )
 
 ## My Smart Home Philosophy
 1) Visitors and guests should be able to control lights and appliances without asking how or thinking too hard about it.
